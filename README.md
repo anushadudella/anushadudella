@@ -8,13 +8,13 @@ My interests include data visualization, statistics, software engineering, web d
 
 ## Anusha's GitHub Stats 📊
 
-[![Anusha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula)](https://github.com/YOUR_GITHUB_USERNAME/github-readme-stats)
+[![Anusha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anushadudella&show_icons=true&theme=dracula)](https://github.com/anushadudellagithub-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dracula)](https://github.com/YOUR_GITHUB_USERNAME/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anushadudella&layout=compact&theme=dracula)](https://github.com/anushadudellagithub-readme-stats)
 
 ## Contributions 📈
 
-![Anusha's Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dracula)
+![Anusha's Streak](https://github-readme-streak-stats.herokuapp.com/?user=anushadudella&theme=dracula)
 
 ---
 
