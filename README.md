@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hey, I'm Anusha - This is my GitHub! 👋
 
-<!--
-**anushadudella/anushadudella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Informatics and Data Science Student at UT Austin 💻
 
-Here are some ideas to get you started:
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)](linkedin.com/in/anusha-dudella-167b25243) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&labelColor=red)](mailto:anusharao4262@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My interests include data visualization, statistics, software engineering, web development, human-computer interaction (HCI), and exploring new technologies.
+
+## Anusha's GitHub Stats 📊
+
+[![Anusha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula)](https://github.com/YOUR_GITHUB_USERNAME/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dracula)](https://github.com/YOUR_GITHUB_USERNAME/github-readme-stats)
+
+## Contributions 📈
+
+![Anusha's Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dracula)
+
+---
+
+Feel free to look around!
