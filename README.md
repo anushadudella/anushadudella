@@ -1,6 +1,6 @@
 # Hey, I'm Anusha - This is my GitHub! 👋
 
-Informatics and Data Science Student at UT Austin 💻
+Informatics (concentrating in Data Science) Student at UT Austin 💻
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)](linkedin.com/in/anusha-dudella-167b25243) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&labelColor=red)](mailto:anusharao4262@gmail.com)
 
