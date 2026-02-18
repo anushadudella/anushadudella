@@ -6,10 +6,6 @@ Informatics (concentrating in Data Science) Student at UT Austin 💻
 
 My interests include data visualization, statistics, software engineering, mathematics, web development, and exploring new technologies.
 
-## Contributions 📈
-
-![Anusha's Streak](https://github-readme-streak-stats.herokuapp.com/?user=anushadudella&theme=dracula)
-
 ---
 
 Feel free to look around!
