@@ -1,4 +1,4 @@
-# Hey, I'm Anusha! This is my GitHub! 👋
+# Hey, I'm Anusha! This is my GitHub!
 
 Informatics (concentrating in Data Science) Student at UT Austin 💻
 
